@@ -1,6 +1,40 @@
-# quick_temp
+# Flutter SignUp with Firebase Authentications.
 
-A new Flutter project.
+A Flutter activity to illustrate a flutter signup with Firebase Authentications.
+
+
+
+# Things to consider while Testing the App
+1. Email Used for Testing : test@gmail.com
+2. Password used : 123456  
+3. No Hashing in password TextField is Initiated at this Activity, However we understand that it has to be done.)
+4. Authentication may a moment since it has to communicate with Firebase and ensure you are connected to the network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
