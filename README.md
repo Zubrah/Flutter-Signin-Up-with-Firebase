@@ -2,6 +2,8 @@
 
 A Flutter activity to illustrate a flutter signup with Firebase Authentications.
 
+Snapshot:
+![Images](https://github.com/Zubrah/Flutter-Signin-Up-with-Firebase/blob/main/Screenshot%202021-03-30%20at%2019.38.57.png)
 
 
 # Things to consider while Testing the App
@@ -11,28 +13,8 @@ A Flutter activity to illustrate a flutter signup with Firebase Authentications.
 4. Authentication may a moment since it has to communicate with Firebase and ensure you are connected to the network.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Author:
+[Zubery Ayyub Msemo](https://github.com/Zubrah)
 
 
 
@@ -48,4 +30,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Flutter-Signin-Up-with-Firebase
